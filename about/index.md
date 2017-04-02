@@ -1,37 +1,22 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
-comments: false
+title: About
+permalink: /about/
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+I have been programming professionally for about 20 years and most of that time has been spent using Delphi starting with version 1 in 1996.  The software I write is used to control various types of machines used for testing car and truck tires.  The software is responsible for performing tests ranging from measuring tire performance, running tires until they fail, to measuring tire wear.  The software is also used to produce final analysis and reports based on customer requirements. 
 
-## Preview
+### More Information
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+I first visited [exercism.io](http://exercism.io) in August of 2016 during a monthly meeting of the [Akron Code Club](https://www.meetup.com/AkronCodeClub/).  I liked the site a lot, it has many different programming languages to choose from.  However, at that time, it lacked [Delphi](https://www.embarcadero.com/products/delphi).  After reviewing instructions regarding contributing to the site, I reached out the founder, Katrina Owen, to see if she would be interested in adding a language track for Delphi...
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+For the past six months I have been working on building up the Delphi language track.  The track has been online for a few months now, designated as upcoming.  On or around April 2nd, 2017 the track will become active.
 
-## Getting Started
+During my time building the Delphi track I reached out Mr. Jim McKeeth at [Embarcadero](http://www.embarcadero.com) to see if it would be possible to receive an open source license for Delphi that would permit us to setup Delphi to test build new exercises that contributors may be submitted via. pull request.  During our email correspondences I was invited by Mr. McKeeth to join the Embarcadero Most Valued Professional (MVP) Program. 
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+![_config.yml]({{ site.baseurl }}/images/MVP_NewLogo_100x100_Transparent-03.png)
+
+
+### Contact me
+
+[rpottsoh@gmail.com](mailto:rpottsoh@gmail.com)
