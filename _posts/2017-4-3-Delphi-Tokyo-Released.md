@@ -3,6 +3,7 @@ layout: post
 title: Delphi 10.2 Tokyo Released!
 published: true
 comments: true
+tags: [Delphi]
 ---
 
 ![Delphi 10.2 Tokyo Box](/assets/img/DelphiTokyoBox.png "Delphi 10.2 Tokyo Box")
