@@ -14,7 +14,7 @@ For the past six months I have been working on building up the Delphi language t
 
 During my time building the Delphi track I reached out Mr. Jim McKeeth at [Embarcadero](http://www.embarcadero.com) to see if it would be possible to receive an open source license for Delphi that would permit us to setup Delphi to test build new exercises that contributors may be submitted via. pull request.  During our email correspondences I was invited by Mr. McKeeth to join the Embarcadero Most Valued Professional (MVP) Program. 
 
-![Delphi Most Valuable Professional](/assets/img/MVP_NewLogo_100x100_Transparent-03.png)
+![Delphi Most Valuable Professional](/assets/img/MVP_NewLogo_100x100_Transparent-03.png "Embarcadero Mpst Valuable Professional Delphi Logo")
 
 
 ### Contact me
