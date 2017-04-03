@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/rpottsoh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rpottsoh.github.io
+  * I am rpottsoh (https://keybase.io/rpottsoh) on keybase.
+  * I have a public key ASC4gQPWw6Mwve9GAYMQdZ-JphrwoGN7drlV0wdL_ee_Swo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120b88103d6c3a330bdef46018310759f89a61af0a0637b76b955d3074bfde7bf4b0a",
+            "host": "keybase.io",
+            "kid": "0120b88103d6c3a330bdef46018310759f89a61af0a0637b76b955d3074bfde7bf4b0a",
+            "uid": "99840ecdcf113eff344dbe1cda532819",
+            "username": "rpottsoh"
+        },
+        "service": {
+            "hostname": "rpottsoh.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1491184897,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1491184515,
+        "hash": "46530b4b79f6d411f01d92f0a94f10b66f5c6e227f7e97c513d313ba6d41aaf3f68f576dc8b35aaf591ec462d661c3c1f58162276600e2804215d400af9f79bf",
+        "seqno": 995361
+    },
+    "prev": "a7df7467b67fd863463db2a74ecd4245414dc746048c0192397fb82b4d339e21",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguIED1sOjML3vRgGDEHWfiaYa8KBje3a5VdMHS/3nv0sKp3BheWxvYWTFAvt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjg4MTAzZDZjM2EzMzBiZGVmNDYwMTgzMTA3NTlmODlhNjFhZjBhMDYzN2I3NmI5NTVkMzA3NGJmZGU3YmY0YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjg4MTAzZDZjM2EzMzBiZGVmNDYwMTgzMTA3NTlmODlhNjFhZjBhMDYzN2I3NmI5NTVkMzA3NGJmZGU3YmY0YjBhIiwidWlkIjoiOTk4NDBlY2RjZjExM2VmZjM0NGRiZTFjZGE1MzI4MTkiLCJ1c2VybmFtZSI6InJwb3R0c29oIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJycG90dHNvaC5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMCJ9LCJjdGltZSI6MTQ5MTE4NDg5NywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkxMTg0NTE1LCJoYXNoIjoiNDY1MzBiNGI3OWY2ZDQxMWYwMWQ5MmYwYTk0ZjEwYjY2ZjVjNmUyMjdmN2U5N2M1MTNkMzEzYmE2ZDQxYWFmM2Y2OGY1NzZkYzhiMzVhYWY1OTFlYzQ2MmQ2NjFjM2MxZjU4MTYyMjc2NjAwZTI4MDQyMTVkNDAwYWY5Zjc5YmYiLCJzZXFubyI6OTk1MzYxfSwicHJldiI6ImE3ZGY3NDY3YjY3ZmQ4NjM0NjNkYjJhNzRlY2Q0MjQ1NDE0ZGM3NDYwNDhjMDE5MjM5N2ZiODJiNGQzMzllMjEiLCJzZXFubyI6MTcsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAHuTzNKURTsPlp6iUBjtnglhBu5cHx2ObyaSBmseqoul4ioOoq+sOpxr61jBjbmdJsBTQW1EMveawbyQyhPEhBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPYeHd2kSxt464xP6N7QVguj/DxQZubtKdF21vBx8dm8o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rpottsoh
+
+==================================================================
