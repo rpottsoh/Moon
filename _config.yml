@@ -5,7 +5,7 @@ description:        "My blog regarding all things Delphi and Exercism.io"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/rpottsohMug.png'
-background:         'assets/img/Berlin.jpg' 
+background:         'assets/img/smallBerlin.jpg' 
 #background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
