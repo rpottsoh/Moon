@@ -4,9 +4,8 @@ title: Delphi 10.2 Tokyo Released!
 published: true
 comments: true
 tags: [Delphi]
+feature: /assets/img/DelphiTokyoBox.png
 ---
-
-![Delphi 10.2 Tokyo Box](/assets/img/DelphiTokyoBox.png "Delphi 10.2 Tokyo Box")
 
 *Delphi 10.2 Tokyo*
 
