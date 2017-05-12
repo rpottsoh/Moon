@@ -12,7 +12,7 @@ I first visited [exercism.io](http://exercism.io) in August of 2016 during a mon
 
 For the past six months I have been working on building up the Delphi language track.  The track has been online for a few months now, designated as upcoming.  On or around April 2nd, 2017 the track will become active.
 
-During my time building the Delphi track I reached out Mr. Jim McKeeth at [Embarcadero](http://www.embarcadero.com) to see if it would be possible to receive an open source license for Delphi that would permit us to utilize Delphi to test build new exercises that contributors may submit via. pull request.  During our email correspondences I was invited by Mr. McKeeth to join the Embarcadero Most Valued Professional (MVP) Program. 
+During my time building the Delphi track I reached out to Mr. Jim McKeeth at [Embarcadero](http://www.embarcadero.com) to see if it would be possible to receive an open source license for Delphi that would permit us to utilize Delphi to test build new exercises that contributors may submit via. pull request.  During our email correspondences I was invited by Mr. McKeeth to join the Embarcadero Most Valued Professional (MVP) Program. 
 
 ![Delphi Most Valued Professional](/assets/img/MVP_NewLogo_100x100_Transparent-03.png "Embarcadero Most Valued Professional Delphi Logo")
 
