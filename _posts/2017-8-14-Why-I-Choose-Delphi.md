@@ -3,7 +3,7 @@ layout: post
 title: Why I Choose Delphi
 published: true
 comments: true
-tags: [Delphi, Embarcadero]
+tags: [Delphi, Embarcadero, Exercism]
 ---
 
 *Why do I choose Delphi?*
